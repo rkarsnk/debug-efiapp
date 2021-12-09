@@ -1,0 +1,1 @@
+debug.log出力用OVMFイメージの配置場所

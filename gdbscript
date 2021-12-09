@@ -1,0 +1,2 @@
+add-symbol-file ./Loader.debug 0x0003E45E240 -s .data 0x0003E460680
+
